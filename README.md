@@ -72,4 +72,4 @@ running time would you expect in practice? Explain.
     fsort(A, beg+1, end)
 </pre><ol class="enumerate" type=a><li class="li-enumerate">Formally show that this sorting algorithm is correct (hint: use
 induction).</li><li class="li-enumerate">Write a recurrence for the running time of this algorithm.
-Is this algorithm efficient? </li></ol></li></ol>
+Is this algorithm efficient? </li></ol></li></ol> Can we modify this README.MD file?
